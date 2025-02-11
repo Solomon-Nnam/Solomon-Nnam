@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Solomon from Nigeria.
 #### I am the MD and Team Lead, Kada Sales App. 
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 I enjoy developing tech solutions for businesses and exploring tech trends to support my team and users effectively.
 
